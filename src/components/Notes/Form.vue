@@ -24,7 +24,6 @@ export default {
         tags: []
       },
       notes: null,
-      isActive: false
     }
   },
   computed: {
